@@ -2,6 +2,8 @@
 
 Download all videos from your Streamable account in the highest quality available, with original titles preserved.
 
+> **AI Disclosure:** This project was created with the assistance of [Amp](https://ampcode.com), an AI coding agent.
+
 ## Features
 
 - **Bulk download** - Downloads all videos from your account automatically
@@ -19,7 +21,7 @@ Download all videos from your Streamable account in the highest quality availabl
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/streamable-downloader.git
+git clone https://github.com/wuirm/streamable-downloader.git
 cd streamable-downloader
 
 # Install dependencies
@@ -98,3 +100,5 @@ MIT License - See [LICENSE](LICENSE) for details.
 ## Disclaimer
 
 This tool is for downloading your own content from Streamable. Please respect copyright and only download videos you have the right to download.
+
+
